@@ -10,7 +10,7 @@ E-mail: ilmir.sultangulov@mail.ru
 Telegram: @pudgiq
 
 Discord: pudge#2047
-**************************
+___________________________________________
 ## About Myself:
 I need to ascend or its over for me, the only way Im able to ascend is Software Engineering
 
@@ -33,4 +33,4 @@ English - Intermediate (according to the online test at EFset Logo www.efset.org
 
 Russian - Native
 
-![engSert](/english.jpeg "english sert EFSET")
+![engSert](https://raw.githubusercontent.com/pudgik/rsschool-cv/gh-pages/english.jpeg "english sert EFSET")
