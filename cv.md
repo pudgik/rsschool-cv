@@ -33,4 +33,4 @@ English - Intermediate (according to the online test at EFset Logo www.efset.org
 
 Russian - Native
 
-![engSert](/img/english.jpeg "english sert EFSET")
+![engSert](/english.jpeg "english sert EFSET")
