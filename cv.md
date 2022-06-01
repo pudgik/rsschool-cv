@@ -1,4 +1,4 @@
-# Султангулов Ильмир 
+# Sultangulov Ilmir
 ### Junior Frontend Developer
 ________________________
 ## Contact Information:
@@ -10,7 +10,9 @@ E-mail: ilmir.sultangulov@mail.ru
 Telegram: @pudgiq
 
 Discord: pudge#2047
+
 ___________________________________________
+
 ## About Myself:
 I need to ascend or its over for me, the only way Im able to ascend is Software Engineering
 
