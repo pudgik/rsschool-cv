@@ -14,7 +14,7 @@ Discord: pudge#2047
 ___________________________________________
 
 ## About Myself:
-I need to ascend or its over for me, the only way Im able to ascend is Software Engineering
+I need;;;;;;;;;;;;;;;;;;;;;;
 
 ## Skills
 C#, ASP.NET, HTML, CSS - Basics
